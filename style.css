@@ -124,7 +124,7 @@ label {
     margin-top: 0.5rem;
 }
 
-button {
+form button {
     background-color: rgb(179, 223, 241);
     text-decoration: none;
     color: #000;
